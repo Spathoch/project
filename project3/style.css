@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(64, 127, 127);
+}
+header{
+    font-family: "Oswald", sans-serif;
+    text-align: center;
+    background: url(фон.jpg);
+    background-size: cover;
+    color: rgb(64, 127, 127);
+    border-radius: 250px;
+    margin: 50px;
+    border: 10px solid rgb(34, 102, 102);
+}
+img{
+    width: 300px;
+    margin: 60px 0px 0px;
+    border-radius:500px;
+    border: 5px solid rgb(64, 127, 127);
+}
+a{
+    color: rgb(13, 77, 77);
+    text-decoration: none;
+}
+h1{
+    font-size: 150px;
+    text-shadow: 6px 0 6px rgb(13, 77, 77);
+}
+ul{
+    padding: 5px;
+    margin: 100px;
+    color: rgb(64, 127, 127);
+}
+li{
+    display: inline;
+    padding: 0px 10px 0px 10px;
+    color: rgb(34, 102, 102);
+    font-family: "Oswald", sans-serif;
+    
+}
+article{
+    max-width: 700px;
+    padding: 20px;
+    margin: 0 auto;
+    font-family: "Oswald", sans-serif;
+}
+p{
+    text-align: justify;
+}
+button{
+    background-color: rgb(34, 102, 102);
+}
+
